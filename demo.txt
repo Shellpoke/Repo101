@@ -6,3 +6,11 @@ Tempo Temporal
 
 
 Buenas tardes.
+
+Now let's pretend we did a bunch more work. We have been working all day, but class is almost over.
+Another convenient byproduct of storing our project on github.com is that
+we can instantly back up our work there and
+then copy it down in the future to a different computer.
+We will worry about copying down in a future exercise.
+But again, let's pretend we need to leave now, so let's commit our current work, 
+hen push it up to github.com so we can log off our machine and head to our next class.
